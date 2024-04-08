@@ -25,7 +25,7 @@ on top of many other tools (such as reprepro, debuild, debhelper, and others).
 
 Here is like it looks like in the terminal:
 
-![Example of using dr](http://linuxwell.com/assets/images/posts/tco-example.png)
+![Example of using dr](https://raw.githubusercontent.com/pazdera/dr/main/screenshot.png)
 
 
 ## Requirements
